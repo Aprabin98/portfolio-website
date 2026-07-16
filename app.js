@@ -84,3 +84,5 @@ tiltCards.forEach((card) => {
     card.style.transform = "";
   });
 });
+
+document.documentElement.classList.add("js");
